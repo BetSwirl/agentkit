@@ -40,6 +40,7 @@
     "typescript"
   ],
   "dependencies": {
+    "@betswirl/sdk-core": "^0.0.2",
     "@coinbase/coinbase-sdk": "^0.20.0",
     "@jup-ag/api": "^6.0.39",
     "@privy-io/server-auth": "^1.18.4",
